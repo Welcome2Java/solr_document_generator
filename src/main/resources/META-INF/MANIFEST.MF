@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Main-Class: com.mtg.jsonparser.JsonparserApplication
+Class-Path: spring-boot-starter-json-2.3.4.RELEASE.jar log4j-api-2.13.3.
+ jar spring-boot-starter-web-2.3.4.RELEASE.jar tomcat-embed-core-9.0.38.
+ jar spring-web-5.2.9.RELEASE.jar hamcrest-core-2.2.jar logback-core-1.2
+ .3.jar spring-expression-5.2.9.RELEASE.jar logback-classic-1.2.3.jar ja
+ ckson-module-parameter-names-2.11.2.jar tomcat-embed-websocket-9.0.38.j
+ ar jackson-databind-2.9.8.jar jakarta.annotation-api-1.3.5.jar spring-c
+ ontext-5.2.9.RELEASE.jar snakeyaml-1.26.jar slf4j-api-1.7.30.jar jackso
+ n-datatype-jdk8-2.11.2.jar jackson-core-2.11.2.jar spring-webmvc-5.2.9.
+ RELEASE.jar spring-boot-starter-tomcat-2.3.4.RELEASE.jar spring-aop-5.2
+ .9.RELEASE.jar spring-boot-autoconfigure-2.3.4.RELEASE.jar spring-boot-
+ starter-logging-2.3.4.RELEASE.jar spring-boot-starter-2.3.4.RELEASE.jar
+  jackson-datatype-jsr310-2.11.2.jar json-simple-1.1.1.jar junit-4.13.ja
+ r jakarta.el-3.0.3.jar hamcrest-2.2.jar jackson-annotations-2.11.2.jar 
+ spring-core-5.2.9.RELEASE.jar spring-jcl-5.2.9.RELEASE.jar log4j-to-slf
+ 4j-2.13.3.jar spring-boot-2.3.4.RELEASE.jar jul-to-slf4j-1.7.30.jar spr
+ ing-beans-5.2.9.RELEASE.jar
+
