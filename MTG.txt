@@ -1,0 +1,26 @@
+Magic The Gathering Tracker Project.
+
+Things to incorperate
+mysql
+solr
+spring boot
+javascript/html/css
+
+
+Goal. 
+Using data from past experience 
+	calculate the win/loss percentage overall from mtgoo/paper
+	calculate the win/loss against certain types of decks
+		Should reset whenever a new set is released or a card is banned. 
+
+Keep track of the deck that is being used. 
+Allow each cards to be linked to an outside source 
+Connection to Database to store all the decks lists and data
+
+
+Front end
+Send data to front end in JSON format. Not jsp format use javascript. 
+
+
+The is to understand the concept and logic. 
+This will be reused for the android app. 

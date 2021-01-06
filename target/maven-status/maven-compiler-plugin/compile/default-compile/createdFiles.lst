@@ -1,0 +1,4 @@
+com\mtg\jsonparser\dao\Token.class
+com\mtg\jsonparser\dao\Card.class
+com\mtg\jsonparser\Utils\JsonParserUtils.class
+com\mtg\jsonparser\JsonparserApplication.class
